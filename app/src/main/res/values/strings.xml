@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentIDCheck</string>
+    <string name="button">Submit</string>
+    <string name="txt_hint">Enter your Student ID</string>
+    <string name="next_page_button">Go to next page</string>
+
+</resources>
